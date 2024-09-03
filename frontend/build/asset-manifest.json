@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbc3ca84.css",
+    "main.js": "/static/js/main.a25c8cbf.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/madhavji.jpg": "/static/media/madhavji.ee19fdde3d6042adb12a.jpg",
+    "index.html": "/index.html",
+    "main.cbc3ca84.css.map": "/static/css/main.cbc3ca84.css.map",
+    "main.a25c8cbf.js.map": "/static/js/main.a25c8cbf.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc3ca84.css",
+    "static/js/main.a25c8cbf.js"
+  ]
+}
